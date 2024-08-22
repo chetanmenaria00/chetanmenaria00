@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itschetan07" alt="itschetan07" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, Cloud computing**
+- 🌱 I’m currently learning **NextJs, Cloud Platforms, Devops tools**
 
-- 💬 Ask me about **Javascript, React, Node**
+- 💬 Ask me about **Javascript, React, Node, Chrome Extensions**
 
 - 📫 How to reach me **chetanmenaria900@gmail.com**
 
