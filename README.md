@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chetanmenaria900@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Ws4mP1nZ7ZPemPBNguNInrQBPvYATiI6UVtaf866Rxc/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1CSSwu24WpxOHVys6w4qaKXpQd7FoJCKF4WgtumxqL9U/edit?usp=sharing)
 
 - ⚡ Fun fact **Did you know that JavaScript developers often console.log their feelings? If only debugging life was as simple! 😄**
 
