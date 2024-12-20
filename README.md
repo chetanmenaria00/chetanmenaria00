@@ -113,6 +113,10 @@ A Full Stack Developer 👨‍💻 who loves building awesome web and mobile app
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanmenaria00&theme=tokyonight" alt="chetanmenaria00" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanmenaria00&layout=compact" alt="Top Languages">
+</p>
+
 ---
 
 ### 🏆 Trophies:
